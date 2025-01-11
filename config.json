@@ -1,0 +1,23 @@
+{
+    "version": "2.0",
+    "last_used": "2024-01-11",
+    "checksum": "3c792407e9d2f5679ca7b77fbd273b14ed2462adf8c798be425940955d9c733c",
+    "copyright": {
+        "owner": "shalan.v",
+        "email": "sns2mhd@gmail.com",
+        "year": 2024
+    },
+    "settings": {
+        "rate_limit_delay": 1.5,
+        "max_retries": 3,
+        "timeout": 30,
+        "log_level": "INFO"
+    },
+    "features": {
+        "copy_webhooks": true,
+        "copy_emojis": true,
+        "copy_stickers": true,
+        "copy_settings": true,
+        "clean_target": true
+    }
+}

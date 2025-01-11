@@ -1,0 +1,10 @@
+discord.py>=2.3.2
+aiohttp==3.9.1
+requests==2.31.0
+rich==13.7.0
+asyncio>=3.4.3
+colorama==0.4.6
+tqdm==4.66.1
+python-dotenv==1.0.0
+aiofiles==23.2.1
+typing-extensions>=4.8.0
