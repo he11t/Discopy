@@ -1,21 +1,65 @@
-# 🚀 Discopy - Professional Discord Server Cloner
+# <div align="center">🌟 Discopy - Professional Discord Server Cloner</div>
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-2.0-blue.svg?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/license-proprietary-red.svg?style=for-the-badge)
-[![Contact](https://img.shields.io/badge/contact-sns2mhd%40gmail.com-orange.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sns2mhd@gmail.com)
+![Discopy Banner](assets/banner.png)
 
-<img src="https://raw.githubusercontent.com/shalanv/discopy/main/assets/banner.png" alt="Discopy Banner" width="600"/>
+[![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)](https://github.com/yourusername/discopy/releases)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Security](https://img.shields.io/badge/Security-Protected-purple.svg)](#-security--legal)
+[![Discord](https://img.shields.io/badge/Discord-Support-7289DA.svg)](https://discord.gg/4wjQTx8xV9)
 
-**The Most Advanced Discord Server Cloning Tool**
+---
 
-[Features](#✨-features) • [Installation](#🔧-installation) • [Usage](#📚-usage) • [Security](#🔒-security) • [Support](#💬-support)
+*A professional, secure, and feature-rich Discord server management tool*
+
+[📥 Installation](#-installation-guide) • 
+[🚀 Features](#-features) • 
+[📖 Documentation](#-documentation) • 
+[🛡️ Security](#-security--legal) • 
+[💬 Support](#-support)
+
+---
 
 </div>
 
----
+## ⚠️ Critical Security Notice
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        SECURITY & COPYRIGHT PROTECTION                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🛡️ ADVANCED SECURITY MEASURES ACTIVE                                        ║
+║                                                                              ║
+║  This software employs sophisticated anti-tampering technology and           ║
+║  copyright protection mechanisms. Any attempt to:                            ║
+║                                                                              ║
+║    ⚠️ Modify source files or configurations                                  ║
+║    ⚠️ Remove or alter copyright notices                                      ║
+║    ⚠️ Disable security features                                              ║
+║    ⚠️ Redistribute or sell the software                                      ║
+║                                                                              ║
+║  Will result in:                                                            ║
+║    • Immediate software termination                                         ║
+║    • Permanent access revocation                                            ║
+║    • Potential legal consequences                                           ║
+║                                                                              ║
+║  🔐 Security Features:                                                       ║
+║    • Runtime integrity verification                                         ║
+║    • Checksum validation                                                    ║
+║    • Anti-debugging protection                                              ║
+║    • Configuration tampering detection                                      ║
+║                                                                              ║
+║  © 2024 shalan.v - All Rights Reserved                                      ║
+║  Contact: sns2mhd@gmail.com                                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## ✨ Features
 
@@ -216,123 +260,75 @@ If you encounter any issues:
 
 ---
 
-## 🔒 Security
+## 🛡️ Security & Legal
 
-### 🛡️ Protection Features
+### 🔒 Proprietary Software Notice
 
-- **File Integrity**
-  - Checksum verification
-  - Runtime protection
-  - Anti-debugging measures
+This software is protected by copyright law and includes sophisticated security measures:
 
-- **Copyright Protection**
-  - Legal safeguards
-  - Tampering detection
-  - Unauthorized use prevention
+#### Copyright Protection
+- All rights reserved under international copyright law
+- Unauthorized reproduction or distribution is prohibited
+- Violators will face legal penalties
 
-### ⚠️ Important Notes
+#### Usage Restrictions
+- Single user license only
+- No modifications permitted
+- No reverse engineering
+- No distribution or sharing
 
-- Keep your Discord token private
-- Don't share modified versions
-- Report security issues
-- Regular updates recommended
+#### Security Measures
+- Built-in tampering detection
+- Automatic violation reporting
+- Access logging and monitoring
 
----
+#### Consequences of Violation
+- Immediate software termination
+- Permanent license revocation
+- Legal action and damages
+- Report to authorities
 
-## 💬 Support
+#### User Agreement
+By using this software, you agree to:
+- Comply with all security measures
+- Accept violation reporting
+- Submit to security monitoring
+- Face consequences for violations
 
-### 📧 Contact
+For licensing or legal matters:
+**Email:** sns2mhd@gmail.com
 
-- **Email**: sns2mhd@gmail.com
-- **Discord**: shalan.v
-- **GitHub**: @shalanv
+**© 2024 shalan.v - All Rights Reserved**
 
-### 🆘 Common Issues
+## 📞 Support & Contact
 
-<details>
-<summary>Token Validation Failed</summary>
-Ensure you're using a valid user token, not a bot token.
-</details>
+<div align="center">
 
-<details>
-<summary>Rate Limiting</summary>
-Adjust RATE_LIMIT_DELAY in .env for your needs.
-</details>
+### Need Help?
 
-<details>
-<summary>Permission Errors</summary>
-Verify you have administrator permissions in both servers.
-</details>
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA.svg)](https://discord.gg/4wjQTx8xV9)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-red.svg)](mailto:sns2mhd@gmail.com)
 
----
+**For security issues:**  
+Contact immediately: sns2mhd@gmail.com
 
-## ⚖️ Legal
+**For general support:**  
+Join our [Discord Server](https://discord.gg/4wjQTx8xV9)
 
-### 📜 License
-```
-Copyright (c) 2024 shalan.v
-All Rights Reserved
-
-Discopy is proprietary and confidential software.
-Unauthorized copying, modification, distribution, or use is strictly prohibited.
-```
-
-### ⚠️ Disclaimer
-
-This tool is for personal use only. Users are responsible for compliance with Discord's Terms of Service.
+</div>
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by shalan.v**
+### ⚖️ Copyright Notice
+
+```
+© 2024 shalan.v - All Rights Reserved
+Proprietary and Confidential
+Protected by International Copyright Law
+```
 
 [🔝 Back to Top](#-discopy---professional-discord-server-cloner)
 
 </div>
-
-```
-╔══════════════════════════════════════════════════╗
-║             SECURITY & COPYRIGHT NOTICE           ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  ⚠️ This software is protected by copyright law   ║
-║  and includes anti-tampering security measures.   ║
-║                                                  ║
-║  • Modification of ANY files is prohibited       ║
-║  • Removal of copyright notices is prohibited    ║
-║  • Unauthorized redistribution is prohibited     ║
-║                                                  ║
-║  Violations will result in immediate software    ║
-║  termination and potential legal action.         ║
-║                                                  ║
-║  By using this software, you agree to these     ║
-║  terms and conditions.                          ║
-║                                                  ║
-║  © 2024 shalan.v - All Rights Reserved          ║
-╚══════════════════════════════════════════════════╝
-
-```
-╔══════════════════════════════════════════════════╗
-║               LEGAL DISCLAIMER                    ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  1. This software is protected by copyright law  ║
-║     and international treaties.                  ║
-║                                                  ║
-║  2. ANY unauthorized modification, including:    ║
-║     • Editing any files                         ║
-║     • Removing copyright notices                 ║
-║     • Disabling security features               ║
-║     • Redistributing the code                   ║
-║     Is STRICTLY PROHIBITED and will result in   ║
-║     immediate termination of your right to use  ║
-║     this software.                              ║
-║                                                  ║
-║  3. Violations may result in legal action.      ║
-║                                                  ║
-║  By using this software, you agree to these     ║
-║  terms and conditions.                          ║
-║                                                  ║
-║  © 2024 shalan.v - All Rights Reserved          ║
-╚══════════════════════════════════════════════════╝
