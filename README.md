@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Discopy Banner](assets/banner.png)
+![Discopy Banner](https://i.postimg.cc/Jzghrk8g/Dis-Copy-Banner.png)
+
+<img src="https://i.postimg.cc/DZ3ys38P/Discopy-logo.png" alt="Discopy Logo" width="150"/>
 
 [![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)](https://github.com/yourusername/discopy/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
