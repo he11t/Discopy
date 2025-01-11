@@ -1,10 +1,8 @@
-# <div align="center">🌟 Discopy - Professional Discord Server Cloner</div>
+# <div align="center">🌟 Discopy - Professional Discord Server Cloner <img src="https://i.postimg.cc/wT9KNTFB/Discopy-logo-modified.png" alt="Discopy Logo" width="40" style="vertical-align: middle;"/></div>
 
 <div align="center">
 
-![Discopy Banner](https://i.postimg.cc/Jzghrk8g/Dis-Copy-Banner.png)
-
-<img src="https://i.postimg.cc/DZ3ys38P/Discopy-logo.png" alt="Discopy Logo" width="150"/>
+![Discopy Banner](https://i.postimg.cc/nc2yGbwG/Dis-Copy-Banner-modified.png)
 
 [![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)](https://github.com/yourusername/discopy/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
