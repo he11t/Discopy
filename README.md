@@ -107,8 +107,6 @@
 #### Discord Requirements
 - Discord account with valid token
 - Administrator permissions in source server
-- Administrator permissions in target server (if copying to existing)
-- 2FA enabled (for certain Discord actions)
 
 #### Python Dependencies
 - aiohttp>=3.8.0
