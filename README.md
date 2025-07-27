@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Security](https://img.shields.io/badge/Security-Protected-purple.svg)](#-security--legal)
-[![Discord](https://img.shields.io/badge/Discord-Support-7289DA.svg)](https://discord.gg/4wjQTx8xV9)
+[![Discord](https://img.shields.io/badge/Discord-Support-7289DA.svg)](https://discord.gg/7Ajcuz4DKY)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        SECURITY & COPYRIGHT PROTECTION                        ║
+║                        SECURITY & COPYRIGHT PROTECTION                       ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  🛡️ ADVANCED SECURITY MEASURES ACTIVE                                        ║
@@ -43,19 +43,19 @@
 ║    ⚠️ Disable security features                                              ║
 ║    ⚠️ Redistribute or sell the software                                      ║
 ║                                                                              ║
-║  Will result in:                                                            ║
-║    • Immediate software termination                                         ║
-║    • Permanent access revocation                                            ║
-║    • Potential legal consequences                                           ║
+║  Will result in:                                                             ║
+║    • Immediate software termination                                          ║
+║    • Permanent access revocation                                             ║
+║    • Potential legal consequences                                            ║
 ║                                                                              ║
-║  🔐 Security Features:                                                       ║
-║    • Runtime integrity verification                                         ║
-║    • Checksum validation                                                    ║
-║    • Anti-debugging protection                                              ║
-║    • Configuration tampering detection                                      ║
+║  🔐 Security Features:                                                      ║
+║    • Runtime integrity verification                                          ║
+║    • Checksum validation                                                     ║
+║    • Anti-debugging protection                                               ║
+║    • Configuration tampering detection                                       ║
 ║                                                                              ║
-║  © 2024 shalan.v - All Rights Reserved                                      ║
-║  Contact: sns2mhd@gmail.com                                                 ║
+║  © 2024 he11t - All Rights Reserved                                          ║
+║  Contact: sns2mhd@gmail.com                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -296,7 +296,7 @@ By using this software, you agree to:
 For licensing or legal matters:
 **Email:** sns2mhd@gmail.com
 
-**© 2024 shalan.v - All Rights Reserved**
+**© 2024 he11t - All Rights Reserved**
 
 ## 📞 Support & Contact
 
@@ -304,14 +304,14 @@ For licensing or legal matters:
 
 ### Need Help?
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA.svg)](https://discord.gg/4wjQTx8xV9)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA.svg)](https://discord.gg/7Ajcuz4DKY)
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-red.svg)](mailto:sns2mhd@gmail.com)
 
 **For security issues:**  
 Contact immediately: sns2mhd@gmail.com
 
 **For general support:**  
-Join our [Discord Server](https://discord.gg/4wjQTx8xV9)
+Join our [Discord Server](https://discord.gg/7Ajcuz4DKY)
 
 </div>
 
@@ -322,7 +322,7 @@ Join our [Discord Server](https://discord.gg/4wjQTx8xV9)
 ### ⚖️ Copyright Notice
 
 ```
-© 2024 shalan.v - All Rights Reserved
+© 2024 he11t - All Rights Reserved
 Proprietary and Confidential
 Protected by International Copyright Law
 ```
